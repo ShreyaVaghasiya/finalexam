@@ -1,0 +1,15 @@
+import 'package:flutter/material.dart';
+
+class Cart_Page extends StatefulWidget {
+  const Cart_Page({Key? key}) : super(key: key);
+
+  @override
+  State<Cart_Page> createState() => _Cart_PageState();
+}
+
+class _Cart_PageState extends State<Cart_Page> {
+  @override
+  Widget build(BuildContext context) {
+    return const Placeholder();
+  }
+}
